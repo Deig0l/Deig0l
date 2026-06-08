@@ -1,4 +1,8 @@
-# 👋 Hi there, I'm Diego!
+
+
+<p align="center">
+  <img src="Deig0lBannerGithub.gif" alt="Hi there! I'm Diego" width="600">
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Studying%20%26%20Working-blueviolet?style=flat-square" alt="Status">
