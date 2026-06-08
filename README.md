@@ -3,7 +3,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Studying%20%26%20Working-blueviolet?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Role-Software%20Developer%20%26%20Student-blue?style=flat-square" alt="Role">
-  <img src="https://img.shields.io/badge/Location-Ciudad%20Ju%C3%A1rez%2C%20MX-orange?style=flat-square" alt="Location">
 </p>
 
 ---
@@ -50,6 +49,13 @@ I am a **Computational Systems Engineering Student**, specializing in **Data Sci
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn">
 </p>
 
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+</p>
+
 #### 💻 Systems, Graphics & Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -59,15 +65,6 @@ I am a **Computational Systems Engineering Student**, specializing in **Data Sci
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Diego's GitHub stats" width="480">
-</p>
-
----
-
 <p align="center">
   <i>"Turning complex data into intelligent logic and clean interfaces."</i>
 </p>
